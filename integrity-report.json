@@ -1,0 +1,83 @@
+{
+  "originalHtmlSha256": "5f439616ac9f8403dcedb9e826f0cabce71b56068e96546a21acab98c49a2dde",
+  "updatedHtmlSha256": "f9fd415f7595f9cd29e3c2328f0edd9e001a9a4b70a34d9cc5fa73006b2acde2",
+  "scripts": [
+    {
+      "index": 0,
+      "bytes": 603448,
+      "originalSha256": "c87fcc14fdaab672a5cfceecd7c0bef58a1a587eb99d9c17f5da0ff0f76ba1cf",
+      "updatedSha256": "c87fcc14fdaab672a5cfceecd7c0bef58a1a587eb99d9c17f5da0ff0f76ba1cf",
+      "unchanged": true
+    },
+    {
+      "index": 1,
+      "bytes": 26378,
+      "originalSha256": "345787d08b113bc42fc368d5a2e3e95cdc2cf5407ebaf0d6f9a737d5f437f951",
+      "updatedSha256": "345787d08b113bc42fc368d5a2e3e95cdc2cf5407ebaf0d6f9a737d5f437f951",
+      "unchanged": true
+    },
+    {
+      "index": 2,
+      "bytes": 116191016,
+      "originalSha256": "e3ca9e0f02fc6bb1a2967fb4d54f162d088f84e54d649a7844a0f58f3d4600e9",
+      "updatedSha256": "e3ca9e0f02fc6bb1a2967fb4d54f162d088f84e54d649a7844a0f58f3d4600e9",
+      "unchanged": true
+    },
+    {
+      "index": 3,
+      "bytes": 5228,
+      "originalSha256": "08f120e08c6e471d79fb69a94f85e62bc7815cb18530e339c095fa78f54eb3a6",
+      "updatedSha256": "08f120e08c6e471d79fb69a94f85e62bc7815cb18530e339c095fa78f54eb3a6",
+      "unchanged": true
+    },
+    {
+      "index": 4,
+      "bytes": 7097,
+      "originalSha256": "e6bf81593e9932689ad424804fd0305e4f0b368b36eb42743f0a8cd14e66471f",
+      "updatedSha256": "e6bf81593e9932689ad424804fd0305e4f0b368b36eb42743f0a8cd14e66471f",
+      "unchanged": true
+    },
+    {
+      "index": 5,
+      "bytes": 6528,
+      "originalSha256": "358801f04cb8429b0fb8788d024d340f09335b586dae8ce74d47561bc14eae93",
+      "updatedSha256": "358801f04cb8429b0fb8788d024d340f09335b586dae8ce74d47561bc14eae93",
+      "unchanged": true
+    },
+    {
+      "index": 6,
+      "bytes": 2383,
+      "originalSha256": "948cf3f454f385c0333e0db29c6fa7a1d3afecea4d88bfe4fd808af9922f8200",
+      "updatedSha256": "948cf3f454f385c0333e0db29c6fa7a1d3afecea4d88bfe4fd808af9922f8200",
+      "unchanged": true
+    },
+    {
+      "index": 7,
+      "bytes": 20154,
+      "originalSha256": "7706bccb57ed5df50723a4a950bb870560f17daf6df05aa58e967bdeb4884bf4",
+      "updatedSha256": "0690169aecbd5321f7d09ed3f48958bdc88144c4ab181d739309b10ef6431514",
+      "unchanged": false
+    }
+  ],
+  "embeddedResources": [
+    {
+      "type": "image/png",
+      "decodedBytes": 1115212,
+      "sha256": "eecda052da945faf7e5bd4622058077aab77f40362b6d629d463939e86e69d64",
+      "unchanged": true
+    }
+  ],
+  "featureInventory": [
+    "Camera overview/top/close; rotate/pan/reset; WASD and Shift",
+    "Asset search, labels, inspector, selection/focus",
+    "Motion; person/car/motorcycle/bicycle; time speed; routes",
+    "Auto orbit; full decoration detail; building shadows",
+    "Reference image zoom; PNG export; fullscreen",
+    "Digital Twin WebSocket connect/disconnect; telemetry JSON import; registry export; existing API and events"
+  ],
+  "decodedModel": {
+    "bytes": 83784444,
+    "sha256": "7ca8fadb8d66729c6c48a0512f62580a0337c1d2c05d43db1ba4adec38b02941",
+    "unchanged": true
+  }
+}
